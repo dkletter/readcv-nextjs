@@ -1,0 +1,442 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "dkletter",
+    "displayName": "Dan Kletter",
+    "profession": null,
+    "location": "San Francisco Bay Area",
+    "pronouns": null,
+    "byline": "San Francisco Bay Area",
+    "website": null,
+    "websiteURL": null,
+    "about": "Software Developer with a background in project management, data science, and graphic design. Enthusiastic team player, creative problem-solver, and can speak effectively to a variety of audiences.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "q5xpUlMQwFKRn5m8JwK4",
+      "year": "2022 — Now",
+      "heading": "Software Developer at UPS",
+      "url": "https://ups.com",
+      "collaborators": [],
+      "description": "Build and support tools and applications for Brokerage, Supply Chain Solutions (SCS), and Global Freight Forwarding (GFF) teams using Microsoft SQL Server, C#, JavaScript, HTML, and CSS in  ASP.net Core. Also works with Microsoft Visual Studio, Microsoft Power BI, Microsoft Excel, Domo, Oracle OBIEE, and Salesforce.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Software Developer",
+      "company": "UPS",
+      "location": null
+    },
+    {
+      "id": "1gRGXJenBWyZqFf0iDbW",
+      "year": "2021 — 2022",
+      "heading": "Corporate Security Supervisor at UPS",
+      "url": "https://ups.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Corporate Security Supervisor",
+      "company": "UPS",
+      "location": null
+    },
+    {
+      "id": "uSn3rckYoADSwVT0Wihh",
+      "year": "2015 — 2021",
+      "heading": "Senior Sales Operations Analyst at UPS",
+      "url": "https://ups.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Senior Sales Operations Analyst",
+      "company": "UPS",
+      "location": null
+    },
+    {
+      "id": "ki7nAOjmBJrWukpviPCN",
+      "year": "2010 — 2015",
+      "heading": "Sales Operations Analyst at UPS",
+      "url": "https://ups.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Sales Operations Analyst",
+      "company": "UPS",
+      "location": null
+    },
+    {
+      "id": "6dGKmHfK3eaqcWLM1Kxr",
+      "year": "2005 — 2010",
+      "heading": "Sales Operations Specialist at UPS",
+      "url": "https://ups.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Sales Operations Specialist",
+      "company": "UPS",
+      "location": null
+    },
+    {
+      "id": "eEJYvWxvqUkAxZZ1XNH1",
+      "year": "2003 — 2005",
+      "heading": "Freelance Designer at self-employed",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Freelance Designer",
+      "company": "self-employed",
+      "location": null
+    },
+    {
+      "id": "U0w18h7R3RApQqzvVucc",
+      "year": "2002 — 2003",
+      "heading": "Project Manager at Symmetricom, Inc.",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Project Manager",
+      "company": "Symmetricom, Inc.",
+      "location": null
+    },
+    {
+      "id": "24RLsoG1RmulSsmumUbM",
+      "year": "2000 — 2002",
+      "heading": "Freelance Designer at self-employed",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Freelance Designer",
+      "company": "self-employed",
+      "location": null
+    },
+    {
+      "id": "WpgrkXO6CZ0IlOzZBqgW",
+      "year": "1999 — 2000",
+      "heading": "Producer at Nickelodeon",
+      "url": "https://nick.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Producer",
+      "company": "Nickelodeon",
+      "location": null
+    },
+    {
+      "id": "equmImV7vt1ClDUV6Wv6",
+      "year": "1997 — 1999",
+      "heading": "Freelance Designer at self-employed",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Freelance Designer",
+      "company": "self-employed",
+      "location": null
+    },
+    {
+      "id": "L4WmttRIa68hJ4RUKd7B",
+      "year": "1993 — 1997",
+      "heading": "IT Support at Adobe Systems, Inc.",
+      "url": "https://adobe.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "IT Support",
+      "company": "Adobe Systems, Inc.",
+      "location": null
+    },
+    {
+      "id": "feoBgCYodNAEGHPqCFOL",
+      "year": "1989 — 1993",
+      "heading": "Software QA at Adobe Systems, Inc.",
+      "url": "https://adobe.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Software QA",
+      "company": "Adobe Systems, Inc.",
+      "location": null
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "jroBMWxSzLbExI0YhyZQ",
+      "year": "2021 — Now",
+      "heading": "Treasurer at Congregation Kol Emeth",
+      "url": "https://kolemeth.org",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Treasurer",
+      "organization": "Congregation Kol Emeth",
+      "location": null
+    },
+    {
+      "id": "Zwtfq79cZPg2TY36YwgW",
+      "year": "1993 — 2014",
+      "heading": "On Air Staff at KFJC 89.7 FM",
+      "url": "https://kfjc.org",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "volunteering",
+      "title": "On Air Staff",
+      "organization": "KFJC 89.7 FM",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "id": "yAYEOoYbmzxK5BTkBoSP",
+      "year": "2021 — 2022",
+      "heading": "Certificiate, Data Science at UC San Diego",
+      "url": "https://bootcamp.extension.ucsd.edu",
+      "collaborators": [],
+      "description": "A 24-week intensive program focused on gaining technical programming skills in Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning.",
+      "attachments": [],
+      "type": "education",
+      "degree": "Certificiate, Data Science",
+      "school": "UC San Diego",
+      "location": null
+    }
+  ],
+  "certifications": [],
+  "contact": [],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "q5xpUlMQwFKRn5m8JwK4",
+          "year": "2022 — Now",
+          "heading": "Software Developer at UPS",
+          "url": "https://ups.com",
+          "collaborators": [],
+          "description": "Build and support tools and applications for Brokerage, Supply Chain Solutions (SCS), and Global Freight Forwarding (GFF) teams using Microsoft SQL Server, C#, JavaScript, HTML, and CSS in  ASP.net Core. Also works with Microsoft Visual Studio, Microsoft Power BI, Microsoft Excel, Domo, Oracle OBIEE, and Salesforce.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Software Developer",
+          "company": "UPS",
+          "location": null
+        },
+        {
+          "id": "1gRGXJenBWyZqFf0iDbW",
+          "year": "2021 — 2022",
+          "heading": "Corporate Security Supervisor at UPS",
+          "url": "https://ups.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Corporate Security Supervisor",
+          "company": "UPS",
+          "location": null
+        },
+        {
+          "id": "uSn3rckYoADSwVT0Wihh",
+          "year": "2015 — 2021",
+          "heading": "Senior Sales Operations Analyst at UPS",
+          "url": "https://ups.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Senior Sales Operations Analyst",
+          "company": "UPS",
+          "location": null
+        },
+        {
+          "id": "ki7nAOjmBJrWukpviPCN",
+          "year": "2010 — 2015",
+          "heading": "Sales Operations Analyst at UPS",
+          "url": "https://ups.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Sales Operations Analyst",
+          "company": "UPS",
+          "location": null
+        },
+        {
+          "id": "6dGKmHfK3eaqcWLM1Kxr",
+          "year": "2005 — 2010",
+          "heading": "Sales Operations Specialist at UPS",
+          "url": "https://ups.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Sales Operations Specialist",
+          "company": "UPS",
+          "location": null
+        },
+        {
+          "id": "eEJYvWxvqUkAxZZ1XNH1",
+          "year": "2003 — 2005",
+          "heading": "Freelance Designer at self-employed",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Freelance Designer",
+          "company": "self-employed",
+          "location": null
+        },
+        {
+          "id": "U0w18h7R3RApQqzvVucc",
+          "year": "2002 — 2003",
+          "heading": "Project Manager at Symmetricom, Inc.",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Project Manager",
+          "company": "Symmetricom, Inc.",
+          "location": null
+        },
+        {
+          "id": "24RLsoG1RmulSsmumUbM",
+          "year": "2000 — 2002",
+          "heading": "Freelance Designer at self-employed",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Freelance Designer",
+          "company": "self-employed",
+          "location": null
+        },
+        {
+          "id": "WpgrkXO6CZ0IlOzZBqgW",
+          "year": "1999 — 2000",
+          "heading": "Producer at Nickelodeon",
+          "url": "https://nick.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Producer",
+          "company": "Nickelodeon",
+          "location": null
+        },
+        {
+          "id": "equmImV7vt1ClDUV6Wv6",
+          "year": "1997 — 1999",
+          "heading": "Freelance Designer at self-employed",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Freelance Designer",
+          "company": "self-employed",
+          "location": null
+        },
+        {
+          "id": "L4WmttRIa68hJ4RUKd7B",
+          "year": "1993 — 1997",
+          "heading": "IT Support at Adobe Systems, Inc.",
+          "url": "https://adobe.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "IT Support",
+          "company": "Adobe Systems, Inc.",
+          "location": null
+        },
+        {
+          "id": "feoBgCYodNAEGHPqCFOL",
+          "year": "1989 — 1993",
+          "heading": "Software QA at Adobe Systems, Inc.",
+          "url": "https://adobe.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Software QA",
+          "company": "Adobe Systems, Inc.",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "jroBMWxSzLbExI0YhyZQ",
+          "year": "2021 — Now",
+          "heading": "Treasurer at Congregation Kol Emeth",
+          "url": "https://kolemeth.org",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Treasurer",
+          "organization": "Congregation Kol Emeth",
+          "location": null
+        },
+        {
+          "id": "Zwtfq79cZPg2TY36YwgW",
+          "year": "1993 — 2014",
+          "heading": "On Air Staff at KFJC 89.7 FM",
+          "url": "https://kfjc.org",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "volunteering",
+          "title": "On Air Staff",
+          "organization": "KFJC 89.7 FM",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "yAYEOoYbmzxK5BTkBoSP",
+          "year": "2021 — 2022",
+          "heading": "Certificiate, Data Science at UC San Diego",
+          "url": "https://bootcamp.extension.ucsd.edu",
+          "collaborators": [],
+          "description": "A 24-week intensive program focused on gaining technical programming skills in Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning.",
+          "attachments": [],
+          "type": "education",
+          "degree": "Certificiate, Data Science",
+          "school": "UC San Diego",
+          "location": null
+        }
+      ]
+    }
+  ]
+}
